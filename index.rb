@@ -13,6 +13,15 @@ second_num = gets.to_i
 puts first_num.to_s
 puts second_num.to_s
 
-print first_num.to_s + ' + ' + second_num.to_s + ' = ' + 
+puts first_num.to_s + ' + ' + second_num.to_s + ' = ' + 
 (first_num + second_num).to_s
+
+
+# ARITHMETIC OPERATIONS
+
+puts '4 + 6 = '+ (4+6).to_s
+puts '4 - 6 = '+ (4-6).to_s
+puts '4 * 6 = '+ (4*6).to_s
+puts '4 / 6 = '+ (4/6).to_s
+puts '4 % 6 = '+ (4%6).to_s
 
