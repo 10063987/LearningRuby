@@ -64,5 +64,4 @@ data_from_file = File.read('created.txt')
 
 puts 'Data From File: ' + data_from_file
 
-
-
+###  ###
